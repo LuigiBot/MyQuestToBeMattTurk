@@ -18,3 +18,7 @@ Extremely small penalty for the number of commands (to find the most efficient r
 # TODOs
 
 Will commit here the emulators and try to document it as best as I can.
+-	Will use Mesen emulator (run through command 'mono Mesen.exe')
+-	Prerequisites to run 'sudo apt-get update mono-complete'
+-	fceux was considered, but discarded when debugging tools were not available for Unix builds.
+
